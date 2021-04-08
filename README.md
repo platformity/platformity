@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @platformity, actually my name is Eric
-- 👀 I’m interested in ...mentorship, automated trading in Ninja8, and building a startup called INSPO
+- 👀 I’m interested in ...mentorship, automated trading in Ninja8, and building a mentorship exchange called INSPO
 - 🌱 I’m currently learning ...how to build a platform business
 - 💞️ I’m looking to collaborate on ...building awesome ideas and automated trading
 - 📫 How to reach me ...on Twitter
